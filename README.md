@@ -1,4 +1,7 @@
 # VAmPI
+
+> **Attribution:** This repository is a coursework reference copy of [VAmPI by erev0s](https://github.com/erev0s/VAmPI). The application and its original documentation are the work of the upstream contributors and are distributed under the included MIT license. This repository is not an original implementation by Quentin Fuentes.
+
 **The Vulnerable API** *(Based on OpenAPI 3)*
 ![vampi](https://i.imgur.com/zR0quKf.jpg)
 
